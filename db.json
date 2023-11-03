@@ -1,5 +1,10 @@
 {
-  "1":["4333-05FB-3760-627C-F31C-C375-7CB6-3DA0"],
+  "users": [
+    {
+      "username": "1",
+      "password": "1",
+    }
+  ],
   "profile":{
      "name":"typicode"
   }
